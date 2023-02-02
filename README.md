@@ -1,4 +1,4 @@
-![example1](public/modalProject1.png)
+![example1](public/modelProject1.png)
 
 <hr>
 
